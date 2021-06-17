@@ -1,0 +1,5 @@
+commit 53460e6d80b2692be1e77d2c9842e1da21341257
+Author: Tim R <tirichards@google.com>
+Date:   Thu Jun 17 10:21:16 2021 -0700
+
+    adds buffer normalization check (#2483)
